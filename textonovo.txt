@@ -3,5 +3,6 @@ textonovo2
 mais uma linha
 duas linhas
 3 linhas
+deu erro foi estranho mas fazer o que
 =======
 >>>>>>> 5c2c71504b4b45abe9e697b2fc1259f715c8119c
